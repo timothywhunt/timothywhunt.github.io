@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Timothy Hunt"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://timothykhunt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "timothywhunt/timothwkhunt.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "timothywhunt/timothwkhunt.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Timothy Hunt"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "DPhil Candidate"
-  location         : "Oxford, UK"
-  employer         : "Nuffield College, University of Oxford"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "timothy.hunt@economics.ox.ac.uk" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "timothywhunt"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter 
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
