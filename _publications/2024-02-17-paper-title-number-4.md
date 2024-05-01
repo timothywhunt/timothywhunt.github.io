@@ -2,7 +2,7 @@
 title: "Sharing the caring? Dynamic interaction between siblings in the provision of care to parents"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Working Paper.'
+excerpt: 'Working Paper'
 paperurl: 'http://timothywhunt.github.io/files/Hunt_2024_Sharing_the_caring.pdf'
 ---
 
