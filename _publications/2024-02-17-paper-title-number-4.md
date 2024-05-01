@@ -2,9 +2,18 @@
 title: "Sharing the caring? Dynamic interaction between siblings in the provision of care to parents"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'A paper on who in the family provides care to an elderly parent.'
-venue: 'Working Paper'
+excerpt: 'Working Paper.'
 paperurl: 'http://timothywhunt.github.io/files/Hunt_2024_Sharing_the_caring.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+I analyse strategic interaction between adult siblings in the provision of care to
+an elderly parent by estimating a dynamic discrete-choice game in which siblings
+make location, work and care choices. I find that the opportunity for strategic
+play exacerbates gender differences in caring responsibilities as sons in particular
+strategically shirk providing care as they believe their sibling is relatively likely
+to provide care in their absence. Counterfactual experiments show that if siblings
+instead took care, location and work choices independently then the gender care gap
+would be around 14% smaller. Also, I find that unobserved preference differences
+between sons and daughters are far more important in driving the gender care gap
+than observed differences in wages.
