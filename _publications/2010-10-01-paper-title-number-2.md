@@ -1,7 +1,7 @@
 ---
 title: "Long-term care policy and housing market efficiency"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Work in progress'
 ---
 
