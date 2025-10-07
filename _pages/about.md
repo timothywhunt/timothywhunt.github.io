@@ -10,4 +10,4 @@ redirect_from:
 
 Welcome!
 ======
-I am a PhD Candidate in Economics at Nuffield College, University of Oxford. I am interested in the economics of ageing and intra-family interaction.
+I am a PhD Candidate in Economics at Nuffield College, University of Oxford. My research focuses on the economics of ageing and intra-family interaction. I develop and estimate dynamic structural models of life-cycle choices to evaluate the consequences of policy interventions.
