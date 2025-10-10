@@ -1,5 +1,5 @@
 ---
-title: "Where's my pension gone? Labour supply effects of a shock to retirement income"
+title: "Where's my pension gone? Labour supply effects of mistakes in retirement planning"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Working paper'
