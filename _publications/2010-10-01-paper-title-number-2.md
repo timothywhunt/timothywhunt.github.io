@@ -3,6 +3,7 @@ title: "Long-term care policy and housing market efficiency"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Working paper'
+paperurl: 'http://timothywhunt.github.io/files/Hunt_Housing_2025.pdf'
 ---
 
 In many countries government policy on funding long-term care for older people incentivises holding housing wealth over financial wealth through exempting
