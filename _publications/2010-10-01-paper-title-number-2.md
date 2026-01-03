@@ -13,8 +13,8 @@ through the housing market using the UK as my setting. I build and estimate an
 overlapping generations model of the housing market where multiple generations
 trade houses over the course of their life cycles while facing income, longevity and
 health risk. By comparing housing market steady states with and without the
-homestead exemption, I find that a budget-balanced removal of the homestead exemption would reduce house prices by 23% and increase welfare by an equivalent of
-a £422 annual increase in consumption per household. The main beneficiaries are
+homestead exemption, I find that a budget-balanced removal of the homestead exemption would reduce house prices by 8% and increase welfare by an equivalent of
+a £357 annual increase in consumption per household. The main beneficiaries are
 those with less housing wealth in the initial steady state, whereas those who lose
 out most are those with long-term care problems and more inherited wealth in the
 initial steady state.
