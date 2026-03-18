@@ -5,6 +5,3 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Work in progress (joint with Dianne McWilliam, University of Michigan)'
 ---
 
-We evaluate the effect of policies to encourage fathers to take paternity leave on their care provision to the elderly parents later in life using reforms to the German parental leave system. 
-
-
